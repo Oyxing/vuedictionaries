@@ -1,0 +1,24 @@
+[
+    {
+    "lang":"en",
+    "title":"English"
+    },{
+    "lang":"ja",
+    "title":"日语"
+    },{
+    "lang":"su",
+    "title":"巽丹文"
+    },{
+    "lang":"zh",
+    "title":"汉语"
+    },{
+    "lang":"fr",
+    "title":"法语"
+    },{
+    "lang":"ru",
+    "title":"俄语"
+    },{
+    "lang":"ko",
+    "title":"韩语"
+    }
+]
